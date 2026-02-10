@@ -1,2 +1,2 @@
 # PWr
-Wrocław University of Science and Technology - Student Project
+Wrocław University of Science and Technology - Student Projects
