@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Cwiczenie_2</string>
+    <string name="Welcome">Jest to aplikacja ćwiczebna Michał Gadziński 246762</string>
+    <string name="Lista1">Lista Prosta</string>
+    <string name="Lista2">Lista Multichoice</string>
+    <string name="Lista3">Lista Dostosowana</string>
+    <string name="Grid1">Lista grid</string>
+
+    <string name="b1">Lista Prosta</string>
+    <string name="b2">Lista Multichoice</string>
+    <string name="b3">Lista Grid</string>
+    <string name="b4">Lista Dostosowana</string>
+    <string name="b5">ADD</string>
+    <string name="back">back</string>
+
+</resources>

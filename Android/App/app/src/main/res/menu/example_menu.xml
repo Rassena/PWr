@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/agender"
+        android:title="agender" />
+    <item
+        android:id="@+id/female"
+        android:title="female" />
+    <item
+        android:id="@+id/male"
+        android:title="male" />
+    <item
+        android:id="@+id/nonbinary"
+        android:title="nonbinary" />
+    <item
+        android:id="@+id/reversetrap"
+        android:title="reversetrap" />
+    <item
+        android:id="@+id/trap"
+        android:title="trap" />
+</menu>

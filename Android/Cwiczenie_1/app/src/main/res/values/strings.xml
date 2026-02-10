@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cwiczenie_1</string>
+    <string name="teskt1">Witaj Użytkowniku!</string>
+    <string name="button1">Przycisk 1</string>
+    <string name="button2">Przycisk 2</string>
+    <string name="tekst2">Przyciśnij mnie dłużej...</string>
+    <string name="tekst3">Any cofnąć użyj paska tytułu lub przycisk "Powrót"</string>
+    <string name="button3">Powrót</string>
+    <string name="button4">Przycisk 3 - handler </string>
+
+</resources>

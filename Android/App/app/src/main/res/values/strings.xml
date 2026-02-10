@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Cwiczenie 3_4</string>
+    <string name="Welcome">Aplikacja Cwiczenie 2 Michał Gadziński 246762</string>
+    <string name="Lista">Lista</string>
+    <string name="tekst1">Some tekst</string>
+    <string name="tekst2">Nowy tekst</string>
+
+
+    <string name="add">ADD</string>
+    <string name="dodawanie">Dodawanie</string>
+    <string name="back">back</string>
+    <string name="podglad">Podgląd</string>
+    <string name="imie">Imię</string>
+    <string name="wiek">Wiek</string>
+    <string name="plec">Płeć</string>
+    <string name="Male">Mężczyzna</string>
+    <string name="Female">Kobieta</string>
+    <string name="Agender">Agender</string>
+    <string name="Trap">Trap</string>
+    <string name="ReverseTrap">Reverse Trap</string>
+    <string name="NonBinary">Non-Binary</string>
+
+
+    <string name="numer">Numer tel</string>
+    <string name="Ranking">Ranking postaci</string>
+    <string name="Modyfikuj">Modyfikuj</string>
+    <string name="Dial">Dial</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_options">Options</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+
+</resources>

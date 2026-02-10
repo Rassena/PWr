@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="all">
+    <item
+        android:id="@+id/checkable_item1"
+        android:checkable="true"
+        android:checked="false"
+        android:title="italic" />
+    <item
+        android:id="@+id/checkable_item2"
+        android:checkable="true"
+        android:checked="false"
+        android:title="bold" />
+    </group>
+
+</menu>
